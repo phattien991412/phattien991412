@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Front-End Developer, I am skilled in HTML, CSS, JavaScript, React, Tailwind, and SCSS, and am committed to creating responsive websites that provide a seamless user experience.<br>I push the limits of web development and am ready to tackle any challenge to deliver exceptional online experiences.
+As a Front-End Developer, I am skilled in HTML/CSS, JavaScript, ReactJS/NextJS, Tailwind, and SCSS, and am committed to creating responsive websites that provide a seamless user experience.<br>I push the limits of web development and am ready to tackle any challenge to deliver exceptional online experiences.
 
 
 ## 🌐 Socials:
